@@ -50,8 +50,3 @@ Example rules:
 - pandas, numpy
 - scikit-learn
 - matplotlib, graphviz / pydotplus
-
-
-
-# Run Jupyter Notebook
-jupyter notebook
